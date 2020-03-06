@@ -1,5 +1,5 @@
 {
-  "name": "Rest_Tester",
+  "name": "Static_Page",
   "private": true,
   "dependencies": {
     "@rails/actioncable": "^6.0.0",
